@@ -15,5 +15,8 @@ Dependencies/modules used in this code:
 7.	ArduinoCloudClient from arduino_iot_cloud
 8.	import glob
 9.	from pathlib import Path
-
 For detailed description and working of each segment, please refer to the quality control pdf
+### Results of image processing
+
+![opencv_2circles](https://github.com/Datas08/Mini-project-opencv/assets/140479274/65a1fcc5-4f08-4d47-9f73-597b4669cc8e)
+![opencv_1circle](https://github.com/Datas08/Mini-project-opencv/assets/140479274/eb2fb6fc-0911-4a49-9977-5f6527bf9c3e)
