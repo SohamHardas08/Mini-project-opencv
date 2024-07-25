@@ -1,5 +1,5 @@
 # Mini-project-opencv
-For the image processing and recognition, we used computer vision module of python, called OPENCV. The entire code is divided into 4 main parts namely:
+For the image processing and recognition, I used computer vision module of python, called OPENCV. The entire code is divided into 4 main parts namely:
 1.	Web-cam setup
 2.	Image processing
 3.	Object dimensions and calculations
