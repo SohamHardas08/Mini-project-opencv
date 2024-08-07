@@ -15,6 +15,7 @@ Dependencies/modules used in this code:
 7.	ArduinoCloudClient from arduino_iot_cloud
 8.	import glob
 9.	from pathlib import Path
+    
 For detailed description and working of each segment, please refer to the quality control pdf
 ### Results of image processing
 
